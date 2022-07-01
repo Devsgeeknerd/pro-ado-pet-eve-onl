@@ -8,6 +8,7 @@
     "strict": true,
     "esModuleInterop": true,
     "module": "ESNext",
-    "moduleResolution": "Node"
+    "moduleResolution": "Node",
+    "resolveJsonModule":
   }
 }
