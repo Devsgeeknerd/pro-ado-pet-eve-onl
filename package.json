@@ -8,5 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@emotion/react": "^11.9.0"
+  }
 }
