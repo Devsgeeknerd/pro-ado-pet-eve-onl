@@ -18,3 +18,4 @@
 *.pem
 
 # debug
+npm-debug.log*
