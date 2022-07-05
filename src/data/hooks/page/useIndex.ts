@@ -7,5 +7,6 @@ export function useIndex() {
   const [Pet__List, setPet__List] = useState<Pet[]>([]),
     [Selected__Pet, setSelected__Pet] = useState<Pet | null>(null),
     [email, setEmail] = useState(""),
-    [value, setValue] = useState("");
+    [value, setValue] = useState(""),
+    [message, setMessage] = useState("");
 }
