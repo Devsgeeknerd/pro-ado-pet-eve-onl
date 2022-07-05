@@ -10,5 +10,7 @@ export function useIndex() {
     [value, setValue] = useState(""),
     [message, setMessage] = useState("");
 
-  useEffect(() => {});
+  useEffect(() => {
+    ApiService.get("/pets").then((response) => {});
+  });
 }
