@@ -23,6 +23,8 @@ export function useIndex() {
   }, [Selected__Pet]);
 
   function Adopt() {
-    if (Selected__Pet !== null)
+    if (Selected__Pet !== null) {
+      if (Validate__Date())
+    }
   }
 }
