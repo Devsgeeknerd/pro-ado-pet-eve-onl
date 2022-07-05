@@ -20,5 +20,5 @@ export function useIndex() {
     if (Selected__Pet === null) {
       Clear__Form();
     }
-  });
+  }, [Selected__Pet]);
 }
