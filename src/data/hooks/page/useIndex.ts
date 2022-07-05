@@ -15,4 +15,6 @@ export function useIndex() {
       setPet__List(response.data);
     });
   }, []);
+
+  useEffect(() => {});
 }
