@@ -4,5 +4,6 @@ import { ApiService } from "../../services/ApiService";
 import { AxiosError } from "axios";
 
 export function useIndex() {
-  const [Pet__List, setPet__List] = useState<Pet[]>([]);
+  const [Pet__List, setPet__List] = useState<Pet[]>([]),
+    [Selected__Pet, setSelected__Pet] = useState<Pet | null>(null);
 }
