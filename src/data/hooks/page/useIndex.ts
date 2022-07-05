@@ -28,6 +28,7 @@ export function useIndex() {
         ApiService.post("/adoptions", {
           pet_id: Selected__Pet.id,
           email,
+          value,
         });
       }
     }
