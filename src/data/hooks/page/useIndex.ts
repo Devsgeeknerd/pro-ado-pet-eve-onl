@@ -1,2 +1,2 @@
 import { useState, useEffect } from "react";
-import { Pet } from
+import { Pet } from "../../@types/Pet";
