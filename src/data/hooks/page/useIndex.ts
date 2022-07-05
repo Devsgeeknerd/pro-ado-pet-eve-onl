@@ -31,6 +31,7 @@ export function useIndex() {
           value,
         }).then(() => {
           setSelected__Pet(null);
+          setMessage("Pet adopted successfully!");
         });
       }
     }
