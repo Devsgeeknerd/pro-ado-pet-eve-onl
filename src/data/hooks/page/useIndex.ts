@@ -16,5 +16,8 @@ export function useIndex() {
     });
   }, []);
 
-  useEffect(() => {});
+  useEffect(() => {
+    if (Selected__Pet === null) {
+    }
+  });
 }
