@@ -21,4 +21,6 @@ export function useIndex() {
       Clear__Form();
     }
   }, [Selected__Pet]);
+
+  function Adopt() {}
 }
