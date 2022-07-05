@@ -3,4 +3,6 @@ import { Pet } from "../../@types/Pet";
 import { ApiService } from "../../services/ApiService";
 import { AxiosError } from "axios";
 
-export function useIndex() {}
+export function useIndex() {
+  const [Pet__List, setPet__List] = useState<Pet[]>([]);
+}
