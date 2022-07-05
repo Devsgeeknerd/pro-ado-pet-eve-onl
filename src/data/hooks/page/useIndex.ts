@@ -14,5 +14,5 @@ export function useIndex() {
     ApiService.get("/pets").then((response) => {
       setPet__List(response.data);
     });
-  });
+  }, []);
 }
