@@ -29,7 +29,7 @@ export function useIndex() {
           pet_id: Selected__Pet.id,
           email,
           value,
-        });
+        }).then(() => {});
       }
     }
   }
