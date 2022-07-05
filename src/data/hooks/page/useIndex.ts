@@ -18,6 +18,7 @@ export function useIndex() {
 
   useEffect(() => {
     if (Selected__Pet === null) {
+      Clear__Form();
     }
   });
 }
