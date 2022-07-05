@@ -9,4 +9,6 @@ export function useIndex() {
     [email, setEmail] = useState(""),
     [value, setValue] = useState(""),
     [message, setMessage] = useState("");
+
+  useEffect(() => {});
 }
