@@ -24,7 +24,9 @@ export function useIndex() {
 
   function Adopt() {
     if (Selected__Pet !== null) {
-      if (Validate__Date())
+      if (Validate__Date()) {
+        ApiService.post("/adoptions", {});
+      }
     }
   }
 }
