@@ -22,5 +22,7 @@ export function useIndex() {
     }
   }, [Selected__Pet]);
 
-  function Adopt() {}
+  function Adopt() {
+    if (Selected__Pet !== null)
+  }
 }
