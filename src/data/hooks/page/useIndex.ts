@@ -29,7 +29,9 @@ export function useIndex() {
           pet_id: Selected__Pet.id,
           email,
           value,
-        }).then(() => {});
+        }).then(() => {
+          setSelected__Pet(null);
+        });
       }
     }
   }
