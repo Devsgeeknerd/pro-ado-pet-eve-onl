@@ -27,6 +27,7 @@ export function useIndex() {
       if (Validate__Date()) {
         ApiService.post("/adoptions", {
           pet_id: Selected__Pet.id,
+          email,
         });
       }
     }
