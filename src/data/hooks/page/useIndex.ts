@@ -11,6 +11,8 @@ export function useIndex() {
     [message, setMessage] = useState("");
 
   useEffect(() => {
-    ApiService.get("/pets").then((response) => {});
+    ApiService.get("/pets").then((response) => {
+      setPet__List(response.data);
+    });
   });
 }
