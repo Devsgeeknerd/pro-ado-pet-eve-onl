@@ -5,5 +5,6 @@ import { AxiosError } from "axios";
 
 export function useIndex() {
   const [Pet__List, setPet__List] = useState<Pet[]>([]),
-    [Selected__Pet, setSelected__Pet] = useState<Pet | null>(null);
+    [Selected__Pet, setSelected__Pet] = useState<Pet | null>(null),
+    [email, setEmail] = useState("");
 }
