@@ -8,6 +8,7 @@ function MyApp({ Component, pageProps }: AppPorps) {
   return (
     <ThemeProvider theme={theme}>
       <Header />
+      <Component {...pageProps} />
     </ThemeProvider>
   );
 }
