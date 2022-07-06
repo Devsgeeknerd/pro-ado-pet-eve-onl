@@ -52,4 +52,6 @@ export function useIndex() {
     setEmail("");
     setValue("");
   }
+
+  return {};
 }
