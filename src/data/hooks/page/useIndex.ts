@@ -47,4 +47,6 @@ export function useIndex() {
   function Validate__Date() {
     return email.length > 0 && value.length > 0;
   }
+
+  function Clear__Form() {}
 }
