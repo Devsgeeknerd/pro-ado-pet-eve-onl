@@ -3,5 +3,6 @@ export const TextService = {
     if (text.length < maximum__size) {
       return text;
     }
+    return text.slice(0, maximum__size) + "...";
   },
 };
