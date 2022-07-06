@@ -32,6 +32,7 @@ export function useIndex() {
         }).then(() => {
           setSelected__Pet(null);
           setMessage("Pet adopted successfully!");
+          // Clear__Form();
         });
       }
     }
