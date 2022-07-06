@@ -55,5 +55,6 @@ export function useIndex() {
 
   return {
     Pet__List,
+    Selected__Pet,
   };
 }
