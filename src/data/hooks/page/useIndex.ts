@@ -59,5 +59,6 @@ export function useIndex() {
     setSelected__Pet,
     email,
     setEmail,
+    value,
   };
 }
