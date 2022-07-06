@@ -35,7 +35,9 @@ export function useIndex() {
             setMessage("Pet adopted successfully!");
             // Clear__Form();
           })
-          .catch((error: AxiosError) => {});
+          .catch((error: AxiosError) => {
+            setMessage(error.response?.data.message);
+          });
       }
     }
   }
