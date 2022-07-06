@@ -50,5 +50,6 @@ export function useIndex() {
 
   function Clear__Form() {
     setEmail("");
+    setValue("");
   }
 }
