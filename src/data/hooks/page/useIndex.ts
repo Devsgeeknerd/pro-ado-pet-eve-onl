@@ -38,6 +38,8 @@ export function useIndex() {
           .catch((error: AxiosError) => {
             setMessage(error.response?.data.message);
           });
+      } else {
+        setMessage("Fill out all the fields correctly!");
       }
     }
   }
