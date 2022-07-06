@@ -29,11 +29,13 @@ export function useIndex() {
           pet_id: Selected__Pet.id,
           email,
           value,
-        }).then(() => {
-          setSelected__Pet(null);
-          setMessage("Pet adopted successfully!");
-          // Clear__Form();
-        });
+        })
+          .then(() => {
+            setSelected__Pet(null);
+            setMessage("Pet adopted successfully!");
+            // Clear__Form();
+          })
+          .catch((error: AxiosError) => {});
       }
     }
   }
