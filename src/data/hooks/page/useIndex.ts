@@ -62,5 +62,6 @@ export function useIndex() {
     value,
     setValue,
     message,
+    setMessage,
   };
 }
