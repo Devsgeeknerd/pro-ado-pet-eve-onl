@@ -61,5 +61,6 @@ export function useIndex() {
     setEmail,
     value,
     setValue,
+    message,
   };
 }
