@@ -48,5 +48,7 @@ export function useIndex() {
     return email.length > 0 && value.length > 0;
   }
 
-  function Clear__Form() {}
+  function Clear__Form() {
+    setEmail("");
+  }
 }
