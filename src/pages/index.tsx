@@ -40,7 +40,7 @@ const Home: NextPage = () => {
     <Dialog open={Selected__Pet !== null} fullWidth PaperProps={{ sx: { p: 5 } }} onClose={() => setlected__Pet(null)}>
       <Grid container spacing={2}>
         <Grid item xs={12}>
-          <TextField label={"E-mail"} />
+          <TextField label={"E-mail"} type={"email"} />
         </Grid>
       </Grid>
     </Dialog>
