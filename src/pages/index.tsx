@@ -11,4 +11,6 @@ import {
   Snackbar,
 } from "@mui/material";
 
-const Home: NextPage = () => {};
+const Home: NextPage = () => {
+  const {} = useIndex();
+};
