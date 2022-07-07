@@ -24,5 +24,5 @@ const Home: NextPage = () => {
     setMessage,
     adopt,
   } = useIndex();
-  return ()
+  return <></>;
 };
