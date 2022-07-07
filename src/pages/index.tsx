@@ -20,5 +20,6 @@ const Home: NextPage = () => {
     setEmail,
     value,
     setValue,
+    message,
   } = useIndex();
 };
