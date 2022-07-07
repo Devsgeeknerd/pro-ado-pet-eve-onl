@@ -38,6 +38,7 @@ const Home: NextPage = () => {
     </>
     <List pets={Pet__List} When__Selected={(pet) => setSelected__Pet(pet)} />
     <Dialog open={Selected__Pet !== null} fullWidth PaperProps={{ sx: { p: 5 } }} onClose={() => setlected__Pet(null)}>
+      <Grid container spacing={2}>
     </Dialog>
   );
 };
