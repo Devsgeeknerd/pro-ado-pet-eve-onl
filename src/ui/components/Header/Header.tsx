@@ -1,5 +1,9 @@
 import { Header__Container, Logo } from "./Header.style";
 
 function Header() {
-  return <Header__Container></Header__Container>;
+  return (
+    <Header__Container>
+      <Logo />
+    </Header__Container>
+  );
 }
