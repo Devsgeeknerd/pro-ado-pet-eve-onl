@@ -1,1 +1,1 @@
-import { Header__Container }
+import { Header__Container, Logo }
