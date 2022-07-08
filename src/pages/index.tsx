@@ -76,6 +76,7 @@ const Home: NextPage = () => {
         open={message.length > 0}
         message={message}
         autoHideDuration={2500}
+        onClose={()}
       />
     </>
   );
