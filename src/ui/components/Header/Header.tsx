@@ -1,3 +1,5 @@
 import { Header__Container, Logo } from "./Header.style";
 
-function Header() {}
+function Header() {
+  return ()
+}
