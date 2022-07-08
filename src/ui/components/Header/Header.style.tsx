@@ -1,3 +1,3 @@
 import { styled } from "@mui/material";
 
-export
+export const;
