@@ -75,7 +75,7 @@ const Home: NextPage = () => {
       <Snackbar
         open={message.length > 0}
         message={message}
-        autoHideDuration={}
+        autoHideDuration={2500}
       />
     </>
   );
