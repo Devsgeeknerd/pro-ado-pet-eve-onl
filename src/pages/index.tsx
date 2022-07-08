@@ -43,7 +43,7 @@ const Home: NextPage = () => {
           <TextField label={"E-mail"} type={"email"} fullWidth value={email} onChange={(e) => setEmail(e.target.value)} />
         </Grid>
         <Grid item xs={12}>
-          <TextField />
+          <TextField label={"Amount per month"} />
         </Grid>
       </Grid>
     </Dialog>
