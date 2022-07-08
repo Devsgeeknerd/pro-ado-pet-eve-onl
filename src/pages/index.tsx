@@ -72,7 +72,7 @@ const Home: NextPage = () => {
           </Button>
         </DialogActions>
       </Dialog>
-      <Snackbar open={message.length > 0} message={} />
+      <Snackbar open={message.length > 0} message={message} />
     </>
   );
 };
