@@ -53,7 +53,12 @@ const Home: NextPage = () => {
             />
           </Grid>
           <Grid item xs={12}>
-            <TextField label={"Amount per month"} type={"number"} fullWidth />
+            <TextField
+              label={"Amount per month"}
+              type={"number"}
+              fullWidth
+              value={value}
+            />
           </Grid>
         </Grid>
       </Dialog>
