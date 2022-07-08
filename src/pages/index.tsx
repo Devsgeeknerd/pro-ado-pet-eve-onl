@@ -62,7 +62,7 @@ const Home: NextPage = () => {
             />
           </Grid>
         </Grid>
-        <DialogActions></DialogActions>
+        <DialogActions sx={{ mt: 5 }}></DialogActions>
       </Dialog>
     </>
   );
