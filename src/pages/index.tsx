@@ -63,10 +63,9 @@ const Home: NextPage = () => {
           </Grid>
         </Grid>
         <DialogActions sx={{ mt: 5 }}>
-          <Button
-            color={"secondary"}
-            onClick={() => setSelected__Pet(null)}
-          ></Button>
+          <Button color={"secondary"} onClick={() => setSelected__Pet(null)}>
+            Cancel
+          </Button>
         </DialogActions>
       </Dialog>
     </>
