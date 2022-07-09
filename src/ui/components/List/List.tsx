@@ -12,4 +12,5 @@ import { TextService } from "../../../data/services/TextService";
 
 interface ListProps {
   pets: Pet[];
+  When__Selected: ()
 }
