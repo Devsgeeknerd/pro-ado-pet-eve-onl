@@ -1,1 +1,1 @@
-import List__Container from
+import List__Container from "./List.style";
