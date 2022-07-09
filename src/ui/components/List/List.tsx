@@ -6,3 +6,4 @@ import {
   Information__Name,
   Information__Description,
 } from "./List.style";
+import
