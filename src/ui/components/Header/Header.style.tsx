@@ -7,4 +7,4 @@ export const Header__Container = styled("header")`
   justify-content: center;
 `;
 
-export const Logo =
+export const Logo = styled;
