@@ -7,4 +7,4 @@ import {
   Information__Description,
 } from "./List.style";
 import { Button } from "@mui/material";
-import
+import { Pet }
