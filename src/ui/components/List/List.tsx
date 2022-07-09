@@ -6,4 +6,4 @@ import {
   Information__Name,
   Information__Description,
 } from "./List.style";
-import { Button } from
+import { Button } from "@mui/material";
