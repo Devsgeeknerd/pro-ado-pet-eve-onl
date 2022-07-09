@@ -7,4 +7,6 @@ export const Header__Container = styled("header")`
   justify-content: center;
 `;
 
-export const Logo = styled;
+export const Logo = styled("img")`
+  width: 230px;
+`;
