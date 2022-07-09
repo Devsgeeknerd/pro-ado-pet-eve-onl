@@ -8,4 +8,4 @@ import {
 } from "./List.style";
 import { Button } from "@mui/material";
 import { Pet } from "../../../data/@types/Pet";
-import { TextService } from
+import { TextService } from "../../../data/services/TextService";
