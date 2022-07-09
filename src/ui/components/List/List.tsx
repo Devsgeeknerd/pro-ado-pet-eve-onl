@@ -11,5 +11,5 @@ import { Pet } from "../../../data/@types/Pet";
 import { TextService } from "../../../data/services/TextService";
 
 interface ListProps {
-  pets;
+  pets: Pet[];
 }
