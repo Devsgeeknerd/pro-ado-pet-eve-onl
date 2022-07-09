@@ -10,4 +10,4 @@ import { Button } from "@mui/material";
 import { Pet } from "../../../data/@types/Pet";
 import { TextService } from "../../../data/services/TextService";
 
-interface;
+interface ListProps
