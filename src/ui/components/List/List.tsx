@@ -27,7 +27,7 @@ function List(props: ListProps) {
             <Information__Description>
               {TextService.Limit__Text(pet.history, Maximum__Size)}
             </Information__Description>
-            <Button variant={"contained"} fullWidth></Button>
+            <Button variant={"contained"} fullWidth onClick={}></Button>
           </Information>
         </List__Item>
       ))}
