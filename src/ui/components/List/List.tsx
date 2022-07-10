@@ -30,7 +30,7 @@ function List(props: ListProps) {
             <Button
               variant={"contained"}
               fullWidth
-              onClick={() => props.When__Selected()}
+              onClick={() => props.When__Selected(pet)}
             ></Button>
           </Information>
         </List__Item>
