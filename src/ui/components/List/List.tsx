@@ -32,7 +32,7 @@ function List(props: ListProps) {
               fullWidth
               onClick={() => props.When__Selected(pet)}
             >
-              Adotar {}
+              Adotar {pet.name}
             </Button>
           </Information>
         </List__Item>
