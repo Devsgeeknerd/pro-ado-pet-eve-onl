@@ -23,7 +23,7 @@ function List(props: ListProps) {
         <List__Item key={pet.id}>
           <List__Photo src={pet.photo} alt={pet.name} />
           <Information>
-            <Information__Name></Information__Name>
+            <Information__Name>{pet.name}</Information__Name>
           </Information>
         </List__Item>
       ))}
