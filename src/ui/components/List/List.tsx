@@ -20,7 +20,7 @@ function List(props: ListProps) {
   return (
     <List__Container>
       {props.pets.map((pet) => (
-        <List__Item key={}></List__Item>
+        <List__Item key={pet.id}></List__Item>
       ))}
     </List__Container>
   );
