@@ -31,7 +31,9 @@ function List(props: ListProps) {
               variant={"contained"}
               fullWidth
               onClick={() => props.When__Selected(pet)}
-            ></Button>
+            >
+              Adotar {}
+            </Button>
           </Information>
         </List__Item>
       ))}
