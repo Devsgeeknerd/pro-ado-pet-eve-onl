@@ -15,4 +15,4 @@ interface ListProps {
   When__Selected: (pet: Pet) => void;
 }
 
-function List(props:);
+function List(props: ListProps);
