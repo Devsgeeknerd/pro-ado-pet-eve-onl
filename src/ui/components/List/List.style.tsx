@@ -25,4 +25,6 @@ export const List__Photo = styled("img")`
   width: 100%;
 `;
 
-export const Information = styled("div")``;
+export const Information = styled("div")`
+  display: flex;
+`;
