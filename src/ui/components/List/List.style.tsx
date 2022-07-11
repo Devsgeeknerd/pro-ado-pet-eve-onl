@@ -28,4 +28,5 @@ export const List__Photo = styled("img")`
 export const Information = styled("div")`
   display: flex;
   flex-direction: column;
+  grid-gap: ${({}) => theme.}
 `;
