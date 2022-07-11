@@ -16,5 +16,6 @@ export const List__Item = styled("li")`
   /* BREAKPOINTS */
   ${({ theme }) => theme.breakpoints.down("md")} {
     margin-bottom: ${({ theme }) => theme.spacing(10)};
+    grid-template-columns: 1fr;
   }
 `;
