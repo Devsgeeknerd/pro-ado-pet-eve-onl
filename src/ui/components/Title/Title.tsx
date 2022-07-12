@@ -5,4 +5,4 @@ interface TitleProps {
   main__subtitle?: string | JSX.Element;
 }
 
-function Title() {}
+function Title(props:) {}
