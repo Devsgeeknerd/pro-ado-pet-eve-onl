@@ -31,4 +31,4 @@ export const Information = styled("div")`
   grid-gap: ${({ theme }) => theme.spacing(2)};
 `;
 
-export const;
+export const Information__Name =
