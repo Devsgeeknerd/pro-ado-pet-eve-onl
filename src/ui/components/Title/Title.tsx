@@ -9,6 +9,7 @@ function Title(props: TitleProps) {
   return (
     <>
       <Main__Title>{props.main__title}</Main__Title>
+      <Main__Subtitle>{}</Main__Subtitle>
     </>
   );
 }
