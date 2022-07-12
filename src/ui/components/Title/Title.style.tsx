@@ -1,3 +1,3 @@
 import {} from "@mui/material";
 
-export const;
+export const Main__Title =
