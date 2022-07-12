@@ -1,3 +1,5 @@
 import { Main__Title, Main__Subtitle } from "./Title.style";
 
-interface TitleProps {}
+interface TitleProps {
+  main__title: string;
+}
