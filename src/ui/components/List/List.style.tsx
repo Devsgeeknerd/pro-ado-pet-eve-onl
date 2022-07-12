@@ -30,3 +30,5 @@ export const Information = styled("div")`
   flex-direction: column;
   grid-gap: ${({ theme }) => theme.spacing(2)};
 `;
+
+export
