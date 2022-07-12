@@ -35,4 +35,4 @@ export const Information__Name = styled("h2")`
   margin: 0px;
 `;
 
-export const Information__Description =
+export const Information__Description = styled("")``;
