@@ -1,1 +1,1 @@
-import {} from "./Title.style";
+import { Main__Title } from "./Title.style";
