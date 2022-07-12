@@ -14,4 +14,4 @@ function Title(props: TitleProps) {
   );
 }
 
-export default
+export default Title;
