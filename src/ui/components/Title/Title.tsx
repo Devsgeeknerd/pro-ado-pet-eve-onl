@@ -6,5 +6,9 @@ interface TitleProps {
 }
 
 function Title(props: TitleProps) {
-  return;
+  return (
+    <>
+      <Main__Title>{}</Main__Title>
+    </>
+  );
 }
