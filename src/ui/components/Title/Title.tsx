@@ -8,7 +8,7 @@ interface TitleProps {
 function Title(props: TitleProps) {
   return (
     <>
-      <Main__Title>{}</Main__Title>
+      <Main__Title>{props.}</Main__Title>
     </>
   );
 }
