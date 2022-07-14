@@ -3,5 +3,6 @@
   "description": "",
   "version": "0.0.0.1",
   "author": "",
-  "private": true
+  "private": true,
+  "scripts": {}
 }
