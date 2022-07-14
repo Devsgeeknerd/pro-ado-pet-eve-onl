@@ -11,5 +11,7 @@
     "test": "next test",
     "lint": "next lint"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@emotion/react": "^11.9.0"
+  }
 }
