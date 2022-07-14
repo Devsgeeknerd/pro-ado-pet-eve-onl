@@ -10,5 +10,6 @@
     "start": "next start",
     "test": "next test",
     "lint": "next lint"
-  }
+  },
+  "dependencies": {}
 }
