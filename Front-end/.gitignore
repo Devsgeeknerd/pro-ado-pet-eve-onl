@@ -18,3 +18,4 @@
 /build
 
 # debug
+npm-debug.log*
