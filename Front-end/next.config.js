@@ -1,1 +1,1 @@
-/** @type {import()} */
+/** @type {import('next')} */
