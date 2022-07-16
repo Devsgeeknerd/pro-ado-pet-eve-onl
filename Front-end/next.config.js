@@ -1,2 +1,2 @@
 /** @type {import('next').NextConfig} */
-const
+const nextConfig = {};
