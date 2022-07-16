@@ -1,2 +1,2 @@
 /// <reference types="next" />
-/// <reference types= />
+/// <reference types="next" />
