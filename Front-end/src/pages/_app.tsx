@@ -1,2 +1,2 @@
 import "../ui/styles/globals.css";
-import
+import type {}
