@@ -1,1 +1,1 @@
-import "../ui/styles";
+import "../ui/styles/globals.css";
