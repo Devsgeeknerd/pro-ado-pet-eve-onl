@@ -4,4 +4,4 @@ import { ThemeProvider } from "@mui/material";
 import theme from "../ui/themes/theme";
 import Header from "../ui/components/Header/Header";
 
-function MyApp();
+function MyApp({}: pageProps);
