@@ -1,1 +1,1 @@
-import type {}
+import type {} from "";
