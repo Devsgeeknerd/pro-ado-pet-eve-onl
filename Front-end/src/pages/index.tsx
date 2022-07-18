@@ -1,1 +1,1 @@
-import type {} from "";
+import type { NextPage } from "";
