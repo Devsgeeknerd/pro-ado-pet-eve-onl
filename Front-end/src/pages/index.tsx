@@ -1,2 +1,2 @@
 import type { NextPage } from "next";
-import Title from "";
+import Title from "../ui";
