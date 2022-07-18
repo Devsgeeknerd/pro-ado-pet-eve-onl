@@ -5,5 +5,5 @@ import theme from "../ui/themes/theme";
 import Header from "../ui/components/Header/Header";
 
 function MyApp({ Component, pageProps }: AppProps) {
-  return <ThemeProvider theme={}></ThemeProvider>;
+  return <ThemeProvider theme={theme}></ThemeProvider>;
 }
