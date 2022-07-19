@@ -12,7 +12,7 @@ import {
 } from "@mui/material";
 
 const Home: NextPage = () => {
-  const { Pet__List, Selected__Pet, setSelected__Pet, email, setEmail } =
+  const { Pet__List, Selected__Pet, setSelected__Pet, email, setEmail, Value } =
     useIndex();
 };
 export default Home;
