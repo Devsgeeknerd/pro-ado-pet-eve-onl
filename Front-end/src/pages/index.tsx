@@ -12,6 +12,6 @@ import {
 } from "@mui/material";
 
 const Home: NextPage = () => {
-  const {} = useIndex();
+  const { Pet__List } = useIndex();
 };
 export default Home;
