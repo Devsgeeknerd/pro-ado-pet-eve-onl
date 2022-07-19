@@ -12,4 +12,4 @@ import {
 } from "@mui/material";
 
 const Home: NextPage = () => {};
-export default
+export default Home;
