@@ -25,4 +25,5 @@ const Home: NextPage = () => {
     adopt,
   } = useIndex();
 };
+
 export default Home;
