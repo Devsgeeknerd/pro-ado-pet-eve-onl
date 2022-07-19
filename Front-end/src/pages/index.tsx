@@ -11,4 +11,4 @@ import {
   Snackbar,
 } from "@mui/material";
 
-const;
+const Home:
