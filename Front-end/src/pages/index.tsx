@@ -11,5 +11,7 @@ import {
   Snackbar,
 } from "@mui/material";
 
-const Home: NextPage = () => {};
+const Home: NextPage = () => {
+  const {} =
+};
 export default Home;
