@@ -12,6 +12,6 @@ import {
 } from "@mui/material";
 
 const Home: NextPage = () => {
-  const {} =
+  const {} = useIndex();
 };
 export default Home;
