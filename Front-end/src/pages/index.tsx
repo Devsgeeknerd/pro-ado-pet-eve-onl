@@ -20,6 +20,7 @@ const Home: NextPage = () => {
     setEmail,
     Value,
     setValue,
+    message,
   } = useIndex();
 };
 export default Home;
