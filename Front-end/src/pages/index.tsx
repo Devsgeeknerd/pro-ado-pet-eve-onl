@@ -21,6 +21,7 @@ const Home: NextPage = () => {
     Value,
     setValue,
     message,
+    setMessage,
   } = useIndex();
 };
 export default Home;
