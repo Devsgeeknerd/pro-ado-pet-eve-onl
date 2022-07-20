@@ -26,7 +26,7 @@ const Home: NextPage = () => {
   } = useIndex();
   return (
     <>
-      <Title main__title=""></Title>
+      <Title main__title="" main__subtitle={}></Title>
     </>
   );
 };
