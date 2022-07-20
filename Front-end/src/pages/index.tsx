@@ -34,7 +34,7 @@ const Home: NextPage = () => {
             pode <strong>adotar um pet virtualmente.</strong>
           </span>
         }
-      ></Title>
+      />
     </>
   );
 };
