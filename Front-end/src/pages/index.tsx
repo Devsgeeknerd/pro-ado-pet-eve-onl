@@ -36,7 +36,7 @@ const Home: NextPage = () => {
         }
       />
       <List pets={Pet__List} When__Selected={(pet) => setSelected__Pet(pet)} />
-      <Dialog open={}></Dialog>
+      <Dialog open={Selected__Pet}></Dialog>
     </>
   );
 };
