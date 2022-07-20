@@ -55,6 +55,7 @@ const Home: NextPage = () => {
           <Button></Button>
         </DialogActions>
       </Dialog>
+      <Snackbar />
     </>
   );
 };
