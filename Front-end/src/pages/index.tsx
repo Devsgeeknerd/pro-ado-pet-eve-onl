@@ -43,7 +43,7 @@ const Home: NextPage = () => {
         onClose={() => setSelected__Pet(null)}
       >
         <Grid container spacing={2}>
-          <Grid>
+          <Grid item>
             <TextField />
           </Grid>
           <Grid>
