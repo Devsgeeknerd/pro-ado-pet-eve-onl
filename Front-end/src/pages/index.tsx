@@ -52,6 +52,7 @@ const Home: NextPage = () => {
         </Grid>
         <DialogActions>
           <Button></Button>
+          <Button></Button>
         </DialogActions>
       </Dialog>
     </>
