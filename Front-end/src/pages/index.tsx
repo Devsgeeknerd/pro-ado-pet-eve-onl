@@ -44,7 +44,7 @@ const Home: NextPage = () => {
       >
         <Grid container spacing={2}>
           <Grid item xs={12}>
-            <TextField label={"E-mail"} type={""} />
+            <TextField label={"E-mail"} type={"email"} />
           </Grid>
           <Grid>
             <TextField />
