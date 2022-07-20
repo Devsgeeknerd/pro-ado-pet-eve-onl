@@ -43,7 +43,9 @@ const Home: NextPage = () => {
         onClose={() => setSelected__Pet(null)}
       >
         <Grid>
-          <Grid></Grid>
+          <Grid>
+            <TextField />
+          </Grid>
         </Grid>
       </Dialog>
     </>
