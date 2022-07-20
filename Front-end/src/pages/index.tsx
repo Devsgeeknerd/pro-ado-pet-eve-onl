@@ -35,6 +35,7 @@ const Home: NextPage = () => {
           </span>
         }
       />
+      <List pets=
     </>
   );
 };
