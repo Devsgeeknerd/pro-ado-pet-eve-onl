@@ -35,7 +35,7 @@ const Home: NextPage = () => {
           </span>
         }
       />
-      <List pets={Pet__List} When__Selected={} />
+      <List pets={Pet__List} When__Selected={pet} />
     </>
   );
 };
