@@ -41,7 +41,9 @@ const Home: NextPage = () => {
         fullWidth
         PaperProps={{ sx: { p: 5 } }}
         onClose={() => setSelected__Pet(null)}
-      ></Dialog>
+      >
+        <Grid></Grid>
+      </Dialog>
     </>
   );
 };
