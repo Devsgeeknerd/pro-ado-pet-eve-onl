@@ -35,7 +35,7 @@ const Home: NextPage = () => {
           </span>
         }
       />
-      <List pets=
+      <List pets={Pet__List}
     </>
   );
 };
