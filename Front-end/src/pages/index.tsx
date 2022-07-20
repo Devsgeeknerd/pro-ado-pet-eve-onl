@@ -50,7 +50,9 @@ const Home: NextPage = () => {
             <TextField />
           </Grid>
         </Grid>
-        <DialogActions></DialogActions>
+        <DialogActions>
+          <Button></Button>
+        </DialogActions>
       </Dialog>
     </>
   );
