@@ -46,7 +46,9 @@ const Home: NextPage = () => {
           <Grid>
             <TextField />
           </Grid>
-          <Grid></Grid>
+          <Grid>
+            <TextField />
+          </Grid>
         </Grid>
       </Dialog>
     </>
