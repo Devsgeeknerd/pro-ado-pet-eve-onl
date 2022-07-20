@@ -40,6 +40,7 @@ const Home: NextPage = () => {
         open={Selected__Pet !== null}
         fullWidth
         PaperProps={{ sx: { p: 5 } }}
+        onClose={}() => ()
       ></Dialog>
     </>
   );
