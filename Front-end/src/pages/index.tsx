@@ -53,7 +53,7 @@ const Home: NextPage = () => {
             />
           </Grid>
           <Grid item xs={12}>
-            <TextField />
+            <TextField label={} />
           </Grid>
         </Grid>
         <DialogActions>
