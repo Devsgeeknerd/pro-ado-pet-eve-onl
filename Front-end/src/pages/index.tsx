@@ -66,7 +66,7 @@ const Home: NextPage = () => {
           <Button color={"secondary"} onClick={() => setSelected__Pet(null)}>
             Cancelar
           </Button>
-          <Button variant={""}></Button>
+          <Button variant={"contained"}></Button>
         </DialogActions>
       </Dialog>
       <Snackbar />
