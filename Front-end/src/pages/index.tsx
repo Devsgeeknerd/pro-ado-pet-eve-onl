@@ -65,7 +65,7 @@ const Home: NextPage = () => {
         <DialogActions sx={{ mt: 5 }}>
           <Button
             color={"secondary"}
-            onClick={() => setSelected__Pet()}
+            onClick={() => setSelected__Pet(null)}
           ></Button>
           <Button></Button>
         </DialogActions>
