@@ -49,7 +49,7 @@ const Home: NextPage = () => {
               type={"email"}
               fullWidth
               value={email}
-              onchange={(e) => ()}
+              onchange={(e) => setEmail()}
             />
           </Grid>
           <Grid>
