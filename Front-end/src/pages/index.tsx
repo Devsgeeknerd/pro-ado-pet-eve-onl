@@ -63,7 +63,7 @@ const Home: NextPage = () => {
           </Grid>
         </Grid>
         <DialogActions sx={{ mt: 5 }}>
-          <Button color={""}></Button>
+          <Button color={"secondary"}></Button>
           <Button></Button>
         </DialogActions>
       </Dialog>
