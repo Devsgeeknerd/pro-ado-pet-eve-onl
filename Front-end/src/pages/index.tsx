@@ -57,7 +57,7 @@ const Home: NextPage = () => {
               label={"Quantia por mês"}
               type={"number"}
               fullWidth
-              value={}
+              value={value}
             />
           </Grid>
         </Grid>
