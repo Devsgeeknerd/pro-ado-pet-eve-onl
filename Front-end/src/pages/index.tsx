@@ -52,7 +52,7 @@ const Home: NextPage = () => {
               onchange={(e) => setEmail(e.target.value)}
             />
           </Grid>
-          <Grid item>
+          <Grid item xs={12}>
             <TextField />
           </Grid>
         </Grid>
