@@ -58,7 +58,7 @@ const Home: NextPage = () => {
               type={"number"}
               fullWidth
               value={value}
-              onChange={(e) => setValue(e.target)}
+              onChange={(e) => setValue(e.target.value)}
             />
           </Grid>
         </Grid>
