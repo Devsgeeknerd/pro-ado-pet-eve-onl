@@ -18,7 +18,7 @@ const Home: NextPage = () => {
     setSelected__Pet,
     email,
     setEmail,
-    Value,
+    value,
     setValue,
     message,
     setMessage,
