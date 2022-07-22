@@ -1,3 +1,3 @@
 import { styled } from "@mui/material";
 
-export const Header__Container = styled()``;
+export const Header__Container = styled("header")``;
