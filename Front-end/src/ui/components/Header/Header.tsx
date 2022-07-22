@@ -8,4 +8,4 @@ function Header() {
   );
 }
 
-export
+export default
