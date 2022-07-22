@@ -1,3 +1,3 @@
 import { Header__Container, Logo } from "./styles";
 
-function
+function Header() {}
