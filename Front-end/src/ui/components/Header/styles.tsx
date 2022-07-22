@@ -1,1 +1,1 @@
-import { styled } from "@mui";
+import { styled } from "@mui/material";
