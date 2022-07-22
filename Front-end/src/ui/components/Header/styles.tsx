@@ -6,4 +6,4 @@ export const Header__Container = styled("header")`
   display: flex;
   justify-content: center;
 `;
-export const Logo = styled("")``;
+export const Logo = styled("img")``;
