@@ -1,1 +1,1 @@
-import { Header__Container } from "./styles";
+import { Header__Container, Logo } from "./styles";
