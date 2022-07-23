@@ -11,5 +11,5 @@ import {
 } from "./styles";
 
 interface ListProps {
-  pets:
+  pets: Pet[];
 }
