@@ -1,1 +1,6 @@
-import { List__Container, List__Item, List__Photo } from "./styles";
+import {
+  List__Container,
+  List__Item,
+  List__Photo,
+  Information,
+} from "./styles";
