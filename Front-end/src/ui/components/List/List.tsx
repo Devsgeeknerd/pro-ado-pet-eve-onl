@@ -1,5 +1,5 @@
 import { Button } from "@mui/material";
-import { Pet } from "../../../data";
+import { Pet } from "../../../data/@types";
 import { TextService } from "";
 import {
   List__Container,
