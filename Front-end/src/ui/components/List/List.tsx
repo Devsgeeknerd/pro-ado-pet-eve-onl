@@ -21,6 +21,7 @@ function List(props: ListProps) {
     <List__Container>
       {props.pets.map((pet) => (
         <List__Item key={pet.id}>
+          <List__Photo
       ))}
     </List__Container>
   );
