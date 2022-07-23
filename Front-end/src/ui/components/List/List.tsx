@@ -17,5 +17,5 @@ interface ListProps {
 
 function List(props: ListProps) {
   const maximum__size = 200;
-  return <List__Container>{props.pets}</List__Container>;
+  return <List__Container>{props.pets.map}</List__Container>;
 }
