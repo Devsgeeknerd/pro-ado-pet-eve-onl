@@ -4,4 +4,5 @@ import {
   List__Photo,
   Information,
   Information__Name,
+  Information__Description,
 } from "./styles";
