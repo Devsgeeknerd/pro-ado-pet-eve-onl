@@ -16,5 +16,5 @@ interface ListProps {
 }
 
 function List(props: ListProps) {
-  const;
+  const maximum__size = 200;
 }
