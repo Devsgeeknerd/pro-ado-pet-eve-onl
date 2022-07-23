@@ -10,4 +10,4 @@ import {
   Information__Description,
 } from "./styles";
 
-interface;
+interface ListProps {}
