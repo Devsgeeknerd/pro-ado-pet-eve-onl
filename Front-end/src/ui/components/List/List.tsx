@@ -9,3 +9,5 @@ import {
   Information__Name,
   Information__Description,
 } from "./styles";
+
+interface;
