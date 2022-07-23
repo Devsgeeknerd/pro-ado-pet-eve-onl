@@ -19,7 +19,7 @@ function List(props: ListProps) {
   const maximum__size = 200;
   return (
     <List__Container>
-      {props.pets.map(() => ())}
+      {props.pets.map((pet) => ())}
     </List__Container>
   );
 }
