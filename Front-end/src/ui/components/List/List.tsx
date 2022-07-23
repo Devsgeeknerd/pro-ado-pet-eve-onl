@@ -12,5 +12,5 @@ import {
 
 interface ListProps {
   pets: Pet[];
-  When__Selected: ();
+  When__Selected: () => void;
 }
