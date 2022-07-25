@@ -25,7 +25,7 @@ function List(props: ListProps) {
           <Information>
             <Information__Name>{pet.name}</Information__Name>
             <Information__Description>
-              {TextService.Limit__Text}
+              {TextService.Limit__Text(pet)}
       ))}
     </List__Container>
   );
