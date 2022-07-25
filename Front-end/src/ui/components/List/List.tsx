@@ -24,6 +24,7 @@ function List(props: ListProps) {
           <List__Photo src={pet.photo} alt={pet.name} />
           <Information>
             <Information__Name>{pet.name}</Information__Name>
+            <Information__Description>
       ))}
     </List__Container>
   );
