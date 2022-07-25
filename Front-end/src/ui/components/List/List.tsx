@@ -41,4 +41,4 @@ function List(props: ListProps) {
   );
 }
 
-export default
+export default List;
