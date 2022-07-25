@@ -21,7 +21,7 @@ function List(props: ListProps) {
     <List__Container>
       {props.pets.map((pet) => (
         <List__Item key={pet.id}>
-          <List__Photo src={pet} />
+          <List__Photo src={pet.photo} />
       ))}
     </List__Container>
   );
