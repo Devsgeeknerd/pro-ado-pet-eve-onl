@@ -26,6 +26,7 @@ function List(props: ListProps) {
             <Information__Name>{pet.name}</Information__Name>
             <Information__Description>
               {TextService.Limit__Text(pet.history, maximum__size)}
+            </Information__Description>
       ))}
     </List__Container>
   );
