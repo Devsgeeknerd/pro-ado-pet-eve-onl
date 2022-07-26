@@ -14,5 +14,6 @@ export const List__Item = styled("li")`
   grid-gap: ${({ theme }) => theme.spacing(5)};
 
   /* BREAKPOINTS */
-  ${({ theme }) =>()} {}
+  ${({ theme }) => theme("md")} {
+  }
 `;
