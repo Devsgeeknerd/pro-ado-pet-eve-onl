@@ -25,4 +25,4 @@ export const List__Photo = styled("img")`
   width: 100%;
 `;
 
-export const Information = ;
+export const Information = styled("")``;
