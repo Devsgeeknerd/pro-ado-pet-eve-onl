@@ -12,4 +12,6 @@ export const List__Item = styled("li")`
   display: flex;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: ${({ theme }) => theme.spacing(5)};
+
+  /* BREAKPOINTS */
 `;
