@@ -8,5 +8,5 @@ export const List__Container = styled("ul")`
 `;
 
 export const List__Item = styled("li")`
-  margin-bottom: ${({}) => ()};
+  margin-bottom: ${({ theme }) => ()};
 `;
