@@ -10,4 +10,5 @@ export const List__Container = styled("ul")`
 export const List__Item = styled("li")`
   margin-bottom: ${({ theme }) => theme.spacing(5)};
   display: flex;
+  grid-template-columns: repeat(2, 1fr);
 `;
