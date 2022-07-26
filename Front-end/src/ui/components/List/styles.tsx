@@ -15,5 +15,6 @@ export const List__Item = styled("li")`
 
   /* BREAKPOINTS */
   ${({ theme }) => theme.breakpoints.down("md")} {
+    margin-bottom: ${({}) => ()};
   }
 `;
