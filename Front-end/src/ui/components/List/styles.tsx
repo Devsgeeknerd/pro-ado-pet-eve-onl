@@ -7,4 +7,4 @@ export const List__Container = styled("ul")`
   padding: ${({ theme }) => theme.spacing(2)};
 `;
 
-export const List__Item =;
+export const List__Item = styled("")``;
