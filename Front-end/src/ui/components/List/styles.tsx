@@ -21,4 +21,4 @@ export const List__Item = styled("li")`
   }
 `;
 
-export const List__Photo = styled("")``;
+export const List__Photo = styled("img")``;
