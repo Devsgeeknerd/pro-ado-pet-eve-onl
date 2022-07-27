@@ -6,7 +6,11 @@ interface TitleProps {
 }
 
 function Title(props: TitleProps) {
-  return ();
+  return (
+    <>
+      <Main__Title>
+    </>
+  );
 }
 
 export default Title;
