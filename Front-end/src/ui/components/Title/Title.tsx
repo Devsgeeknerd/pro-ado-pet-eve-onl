@@ -5,6 +5,8 @@ interface TitleProps {
   main__subtitle: string | JSX.Element;
 }
 
-function Title(props: TitleProps) {}
+function Title(props: TitleProps) {
+  return ();
+}
 
 export default Title;
