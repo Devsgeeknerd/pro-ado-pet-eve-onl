@@ -37,4 +37,5 @@ export const Information__Name = styled("h2")`
 
 export const Information__Description = styled("p")`
   margin: 0px;
+  word-break: break-word;
 `;
