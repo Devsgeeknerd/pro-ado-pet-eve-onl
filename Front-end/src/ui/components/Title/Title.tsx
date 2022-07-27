@@ -1,1 +1,1 @@
-import { Main__Title } from "./styles";
+import { Main__Title, Main__Subtitle } from "./styles";
