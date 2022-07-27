@@ -7,4 +7,4 @@ interface TitleProps {
 
 function Title() {}
 
-export
+export default
