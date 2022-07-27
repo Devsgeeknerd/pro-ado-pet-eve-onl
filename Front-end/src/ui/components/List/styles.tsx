@@ -34,3 +34,5 @@ export const Information = styled("div")`
 export const Information__Name = styled("h2")`
   margin: 0px;
 `;
+
+export
