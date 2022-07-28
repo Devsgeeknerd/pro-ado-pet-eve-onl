@@ -1,5 +1,5 @@
 import {} from "@mui/material";
 
 export const Main__Title = styled("h1")`
-  margin-top: ${({ theme }) => theme()};
+  margin-top: ${({ theme }) => theme.spacing(5)};
 `;
