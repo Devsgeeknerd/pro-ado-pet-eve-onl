@@ -1,3 +1,3 @@
 import {} from "@mui/material";
 
-export const Main__Title = ;
+export const Main__Title = styled("")``;
