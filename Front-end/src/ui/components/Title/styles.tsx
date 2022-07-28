@@ -7,5 +7,5 @@ export const Main__Title = styled("h1")`
 `;
 
 export const Main__Subtitle = styled("h2")`
-  color: ${({ theme }) => ()};
+  color: ${({ theme }) => theme()};
 `;
