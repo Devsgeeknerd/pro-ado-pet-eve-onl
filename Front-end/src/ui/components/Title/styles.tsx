@@ -10,4 +10,5 @@ export const Main__Subtitle = styled("h2")`
   color: ${({ theme }) => theme.palette.text.secondary};
   margin-bottom: ${({ theme }) => theme.spacing(5)};
   font-size: 18px;
+  font-weight: normal;
 `;
