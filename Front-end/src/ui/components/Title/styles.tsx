@@ -1,1 +1,1 @@
-import {} from "@mui";
+import {} from "@mui/material";
