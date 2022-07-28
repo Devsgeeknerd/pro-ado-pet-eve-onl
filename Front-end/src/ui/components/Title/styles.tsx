@@ -6,4 +6,4 @@ export const Main__Title = styled("h1")`
   text-align: center;
 `;
 
-export const;
+export const Main__Subtitle = ;
