@@ -19,5 +19,7 @@ const theme = createTheme({
   shape: {
     borderRadius: "4px",
   },
-  components: {},
+  components: {
+    MuiButton: {},
+  },
 });
