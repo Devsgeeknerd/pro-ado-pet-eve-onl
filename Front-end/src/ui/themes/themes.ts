@@ -43,6 +43,8 @@ const theme = createTheme({
         },
       },
     },
-    MuiTableHead: {},
+    MuiTableHead: {
+      styleOverrides: {},
+    },
   },
 });
