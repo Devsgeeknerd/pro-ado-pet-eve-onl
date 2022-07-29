@@ -1,3 +1,3 @@
 import { createTheme } from "@mui/material";
 
-createTheme({});
+const createTheme({});
