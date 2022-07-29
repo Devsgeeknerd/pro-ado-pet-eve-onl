@@ -16,6 +16,8 @@ const theme = createTheme({
   typography: {
     fontFamily: "Roboto, sans-serif",
   },
-  shape: {},
+  shape: {
+    borderRadius: "4px",
+  },
   components: {},
 });
