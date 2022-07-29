@@ -30,7 +30,9 @@ const theme = createTheme({
       },
     },
     MuiPaper: {
-      styleOverrides: {},
+      styleOverrides: {
+        root: {},
+      },
     },
   },
 });
