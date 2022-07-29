@@ -52,5 +52,6 @@ const theme = createTheme({
         },
       },
     },
+    MuiTableCell: {},
   },
 });
