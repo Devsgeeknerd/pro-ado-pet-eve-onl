@@ -29,6 +29,8 @@ const theme = createTheme({
         },
       },
     },
-    MuiPaper: {},
+    MuiPaper: {
+      styleOverrides: {},
+    },
   },
 });
