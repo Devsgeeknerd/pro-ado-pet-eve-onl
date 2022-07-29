@@ -44,7 +44,9 @@ const theme = createTheme({
       },
     },
     MuiTableHead: {
-      styleOverrides: {},
+      styleOverrides: {
+        root: {},
+      },
     },
   },
 });
