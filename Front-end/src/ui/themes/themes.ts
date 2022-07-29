@@ -4,4 +4,5 @@ const theme = createTheme({
   palette: {},
   typography: {},
   shape: {},
+  components: {},
 });
