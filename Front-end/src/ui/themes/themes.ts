@@ -25,6 +25,7 @@ const theme = createTheme({
         root: {
           textTransform: "none",
           borderRadius: "5px",
+          fontWeight: "normal",
         },
       },
     },
