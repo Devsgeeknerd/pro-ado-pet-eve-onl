@@ -36,5 +36,6 @@ const theme = createTheme({
         },
       },
     },
+    MuiTextField: {},
   },
 });
