@@ -38,7 +38,9 @@ const theme = createTheme({
     },
     MuiTextField: {
       defaultProps: {
-        InputLabelProps: {},
+        InputLabelProps: {
+          required: false,
+        },
       },
     },
   },
