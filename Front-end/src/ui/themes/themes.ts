@@ -21,7 +21,9 @@ const theme = createTheme({
   },
   components: {
     MuiButton: {
-      styleOverrides: {},
+      styleOverrides: {
+        root: {},
+      },
     },
   },
 });
