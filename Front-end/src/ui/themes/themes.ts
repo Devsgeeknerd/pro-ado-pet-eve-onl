@@ -62,4 +62,4 @@ const theme = createTheme({
   },
 });
 
-export default
+export default theme;
