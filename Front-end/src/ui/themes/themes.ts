@@ -24,6 +24,7 @@ const theme = createTheme({
       styleOverrides: {
         root: {
           textTransform: "none",
+          borderRadius: "5px",
         },
       },
     },
