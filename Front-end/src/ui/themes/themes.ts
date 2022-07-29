@@ -20,6 +20,8 @@ const theme = createTheme({
     borderRadius: "4px",
   },
   components: {
-    MuiButton: {},
+    MuiButton: {
+      styleOverrides: {},
+    },
   },
 });
