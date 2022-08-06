@@ -2,7 +2,7 @@
 &nbsp;
 ![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=Fãs&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/?style=plastic&label=Observadores&labelColor=f9e64f "Total de Observadores")
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-ado-pet?style=plastic&label=Observadores&labelColor=f9e64f "Total de Observadores")
 &nbsp;
 ![stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=plastic&label=Estrelas&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
