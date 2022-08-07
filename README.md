@@ -10,7 +10,7 @@
   * [Foto da tela](#foto-da-tela)
   * [Links](#links)
 * [Meu processo](#meu-processo)
-  * [Construido com](#construido-com)
+  <!-- * [Construido com](#construido-com) -->
   <!-- * [O que aprendi](#o-que-aprendi) -->
   <!-- * [Desenvolvimento continuo](#desenvolvimento-continuo) -->
   <!-- * [Recursos uteis](#recursos-uteis) -->
