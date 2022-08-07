@@ -14,7 +14,7 @@
   * [O que aprendi](#o-que-aprendi)
   * [Desenvolvimento continuo](#desenvolvimento-continuo)
   * [Recursos uteis](#recursos-uteis)
-* [Autores]()
+* [Autores](#autores)
 * []()
 * []()
 
