@@ -8,7 +8,7 @@
 
 * [Vista por cima](#vista-por-cima)
   * [Foto da tela](#foto-da-tela)
-  * [Links](#links)
+  <!-- * [Links](#links) -->
 <!-- * [Meu processo](#meu-processo) -->
   <!-- * [Construido com](#construido-com) -->
   <!-- * [O que aprendi](#o-que-aprendi) -->
