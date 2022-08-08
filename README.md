@@ -1,9 +1,9 @@
-<!-- TITLE -->
+<!-- Title -->
 # Adote um Pet
 
 ***Conteúdo do Projeto:***
 
-<!-- TABLE OF CONTENTS -->
+<!-- Table of Contents -->
 <!-- ## Tabela de Conteúdos -->
 
 <!-- * [Vista por cima](#vista-por-cima) -->
@@ -24,7 +24,7 @@
 <!-- ### Foto da Tela -->
 <!-- Links -->
 <!-- ### Links -->
-My Process
+<!-- My Process -->
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-ado-pet&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
