@@ -27,7 +27,7 @@
 <!-- My Process -->
 ## Meu Processo
 <!-- Built With -->
-<!-- ### Construido com -->
+### Construido com
 <!-- What I Learned -->
 <!-- ### O que Aprendi -->
 <!-- Continued Development -->
