@@ -30,7 +30,7 @@
 ### Construido com
 
 * [Next.js.](https://nextjs.org)
-* [React.js.]()
+* [React.js.](https://reactjs.org)
 * [Laravel.](https://laravel.com)
 <!-- What I Learned -->
 <!-- ### O que Aprendi -->
