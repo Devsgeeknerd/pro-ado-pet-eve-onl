@@ -30,6 +30,7 @@
 ### Construido com
 
 * [Next.js.](https://nextjs.org)
+* [Laravel.]()
 <!-- What I Learned -->
 <!-- ### O que Aprendi -->
 <!-- Continued Development -->
