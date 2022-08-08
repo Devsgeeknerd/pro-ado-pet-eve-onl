@@ -29,7 +29,7 @@
 <!-- Built With -->
 <!-- ### Construido com -->
 <!-- What I Learned -->
-### O que Aprendi
+<!-- ### O que Aprendi -->
 <!-- Continued Development -->
 <!-- Useful Resources -->
 
