@@ -55,6 +55,6 @@
 &nbsp;
 ![forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-ado-pet?style=plastic&label=Bifurcações&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/pro-ado-pet?style=plastic&label=Tamanho&labelColor=f9e64f "Tamanho do Repositório")
+![code size](https://img.shields.io/github/languages/code-size/Devsgeeknerd/pro-ado-pet?style=plastic&label=Tamanho&labelColor=f9e64f)
 &nbsp;
 ![license](https://img.shields.io/github/license/Devsgeeknerd/pro-ado-pet?style=plastic&label=Licença&labelColor=f9e64f "Licença do Repositório")
