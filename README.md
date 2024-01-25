@@ -26,6 +26,30 @@
 >   * Se o projeto crescer, considere dividir as regras de estilo em arquivos separados para facilitar a manutenção.
 > * Nomenclatura de Componentes:
 >   * Utilizar nomes de componentes mais descritivos pode melhorar a legibilidade do código.
+> * Semântica:
+>   * Certifique-se de que os nomes das classes refletem adequadamente o propósito dos elementos que estão estilizando.
+> * Testes Responsivos:
+>   * O uso de breakpoints para estilos responsivos é uma prática recomendada, e a aplicação parece estar usando isso corretamente.
+>   * Certifique-se de testar em diferentes dispositivos para garantir uma experiência de usuário consistente.
+> * Nomenclatura de Funções:
+>   * Considere nomear a função When__Selected de forma mais descritiva, por exemplo, onPetSelected.
+> * Tratamento de Erros:
+>   * Considere adicionar tratamento de erros para casos em que pet.photo ou pet.history possam ser indefinidos ou nulos.
+> * Estilos Responsivos:
+>   * Verifique se os estilos estão otimizados para diferentes tamanhos de tela, especialmente ao exibir imagens.
+> * Usar Cores do Tema:
+>   * Em vez de utilizar diretamente a cor #f0f0f0 para a borda, considere usar as cores do tema do Material-UI, acessíveis através de theme.palette.xxx.
+> * Separar Componentes:
+>   * Considere dividir componentes mais complexos em componentes menores e mais reutilizáveis para facilitar a manutenção e melhorar a legibilidade.
+> * Gerenciamento de Estado:
+>   * Avalie a possibilidade de usar um estado global ou local de gerenciamento de estado (como Redux) para melhorar o gerenciamento de estados complexos.
+> * Estrutura de Arquivos:
+>   * Mantenha uma estrutura de arquivos organizada para facilitar a navegação e manutenção do código.
+> * Manutenção do Tema:
+>   * Mantenha o tema da aplicação centralizado em um arquivo dedicado para facilitar ajustes e manutenção.
+> * Responsabilidades dos Componentes:
+>   * Certifique-se de que cada componente tenha uma responsabilidade clara.
+>   * O componente Header pode ser responsável pela navegação e layout do cabeçalho da aplicação.
 
 <!-- Informações -->
 ## &#8505; Informações
